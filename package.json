@@ -1,0 +1,7 @@
+{
+  "name": "pagamento-ms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinicius Lima <vinicius.devjvm@gmail.com>",
+  "license": "MIT"
+}
